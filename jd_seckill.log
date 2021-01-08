@@ -1,0 +1,27 @@
+2021-01-05 22:51:11,772 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:405] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-01-05 22:51:12,109 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:186] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-05 22:51:14,401 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:16,523 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:18,658 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:20,788 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:22,930 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:25,065 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:27,205 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:29,323 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:31,452 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:33,569 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:35,689 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:37,805 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:39,931 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:42,061 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:44,184 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:46,307 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-05 22:51:48,440 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:217] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-01-05 22:51:50,575 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:220] - INFO: 已完成手机客户端确认
+2021-01-05 22:51:51,076 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:274] - INFO: 二维码登录成功
+2021-01-05 22:51:51,975 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/lib/python3.8/site-packages/urllib3/connectionpool.py[line:749] - WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))': /chromium-browser-snapshots/Mac/588429/chrome-mac.zip
+2021-01-05 22:51:52,619 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/lib/python3.8/site-packages/urllib3/connectionpool.py[line:749] - WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))': /chromium-browser-snapshots/Mac/588429/chrome-mac.zip
+2021-01-05 22:51:52,736 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/lib/python3.8/site-packages/urllib3/connectionpool.py[line:749] - WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)'))': /chromium-browser-snapshots/Mac/588429/chrome-mac.zip
+2021-01-05 22:51:52,861 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:355] - INFO: 自动获取JdTdudfp发生异常，将从配置文件读取！
+2021-01-05 22:51:53,127 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:481] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-05 22:51:53,403 - 57369-MainThread - /Users/bob/Downloads/jd_seckill/jd_seckill/jd_spider_requests.py[line:499] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
